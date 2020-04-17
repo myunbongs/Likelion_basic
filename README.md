@@ -1,6 +1,7 @@
 ## 멋쟁이 사자처럼 8기 1Week 과제
 
-### 👓다른 팀 과제방 구경하기👓
+### 👓다른 팀 과제방 구경하기👓_
+----------
 [지훈팀](https://github.com/kkangjee/likelion8_github_assignment)
 [승재팀](https://github.com/msj0319/likelion8_github_assignment)
 [교준팀](https://github.com/jkjan/Quentin)
