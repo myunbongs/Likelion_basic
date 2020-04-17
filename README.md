@@ -1,9 +1,6 @@
 ## 멋쟁이 사자처럼 8기 1Week 과제
-### 1Week Homework
-- 팀장의 repository를 자신의 저장소로 fork
-- 자신의 repository에서 수정하여 pullrequest 보내기
 
-👓다른 팀 과제방 구경하기👓  
+### 👓다른 팀 과제방 구경하기👓  
 ----------
 [지훈팀](https://github.com/kkangjee/likelion8_github_assignment)
 [승재팀](https://github.com/msj0319/likelion8_github_assignment)
@@ -13,6 +10,9 @@
 [예은팀](https://github.com/KimYeeun99/Likelion_hw)
 [정인팀](https://github.com/jeongiin/LikelionAssignment)
 
+### 1Week Homework
+- 팀장의 repository를 자신의 저장소로 fork
+- 자신의 repository에서 수정하여 pullrequest 보내기
 ### 과제 내용
 - pullrequest르 보낼 때의 내용은 자기소개 간단하게
 
