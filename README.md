@@ -6,7 +6,8 @@
 ### 3Week Homework(4/22)
 - REST API 조사하기
 - 조사한 내용을 각자 자신의 notion에 올리기
-- 각각 git branch를 만들어서 pull request 보내기
+- notion에 올린 내용을 md파일로 내보내서 파일을 생성하여 git에 올리기
+- git에 올릴 때 각각 git branch를 만들어서 pull request 보내기
 
 ## 보낼 때 주의사항
 - push를 보낼 때는 꼭 톡방에 올리고 보내기 동시에 보낼시 충돌의 가능성이 있기 때문입니다.
