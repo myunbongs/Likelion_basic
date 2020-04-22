@@ -2,8 +2,6 @@
 ### 2Week Homework(4/15)
 - 팀장의 repository를 자신의 저장소로 fork
 - 자신의 repository에서 수정하여 pullrequest 보내기
-### 과제 내용
-- pullrequest르 보낼 때의 내용은 자기소개 간단하게
 
 ### 3Week Homework(4/22)
 - REST API 조사하기
