@@ -1,0 +1,36 @@
+.MyProfile {
+	background-color: black;
+}
+
+.fiverank {
+	width: 50px;
+}
+
+.fivekeyword {
+	width: 50px;
+}
+
+.link {
+	padding: 50px;
+}
+
+.MyLink {
+	background-color: white;
+	margin: 20px;
+}
+
+.inputService {
+	background-image: url("likelion.png");
+}
+
+.MyInput {
+	width: 500px;
+	background-color: white;
+	opacity: .9;
+}
+
+.loginForm {
+	background-color: violet;
+	width: 300px;
+	padding: 10px;
+} 
